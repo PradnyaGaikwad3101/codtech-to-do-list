@@ -4,7 +4,8 @@ ID:CT6WTDS0287
 Domain:Full Stack Web Development duration:july to august 2024 
 mentor:Muzammil Ahmed 
                 overview of project project: To Do List Web Application  
- 
+ ![todolist](https://github.com/user-attachments/assets/954736b7-65e2-41ed-830d-99903d337d50)
+
   
     The objective of a To-Do List web application project is to develop a user-friendly platform that helps individuals and teams efficiently manage and track their tasks and responsibilities  
 Overall, the objective is to build a reliable, efficient, and easy-to-use tool that helps users stay organized and manage their tasks more effectively.     
